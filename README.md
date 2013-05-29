@@ -1,4 +1,6 @@
 Unity3d-Javascripts
 ===================
 
-The Unity3d Javascripts that we use in our FPS-Game, 
+Created by BitSoft Entertainment!
+Not for Commercial use!
+If you use this script in your Game, please give us Credits.
